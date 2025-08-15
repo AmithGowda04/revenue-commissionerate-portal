@@ -24,14 +24,25 @@ Plugins: Elementor, WPForms, Yoast SEO, etc.
 📸 Screenshots
 
 Homepage
+<img width="1906" height="923" alt="image" src="https://github.com/user-attachments/assets/6cd9c1be-bb90-4e0d-a358-dd1135e75774" />
+<img width="1898" height="709" alt="image" src="https://github.com/user-attachments/assets/a57e43d4-f587-48bc-99f6-6b8053101856" />
+
+
 
 
 
 Services Page
+<img width="1893" height="901" alt="image" src="https://github.com/user-attachments/assets/a1ddbfd0-672a-4188-9435-234ceb343924" />
+<img width="1132" height="876" alt="image" src="https://github.com/user-attachments/assets/ea16acfb-5033-4f8f-b86c-854e315f9e34" />
+
+
 
 
 
 Application Form
+
+<img width="1919" height="918" alt="image" src="https://github.com/user-attachments/assets/09d79234-a800-4c8d-a905-e236c10d9e2e" />
+
 
 
 
