@@ -1,4 +1,4 @@
-Revenue Commissionerate - Karnataka Government Official Portal
+**Revenue Commissionerate - Karnataka Government Official Portal**
 
 
 
@@ -27,7 +27,7 @@ Hosting: Government of Karnataka Infrastructure
 Theme: Customized WordPress Theme
 Plugins: Elementor, WPForms, Yoast SEO, etc.
 
-📸 Screenshots
+Screenshots
 
 Homepage
 
