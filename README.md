@@ -81,4 +81,4 @@ Centralized updates for all revenue-related announcements
 📬 Contact
 
 Developer: Amith Gowda S
-Portfolio: amithgowda.netlify.app
+Portfolio: https://amithgowda.netlify.app/
