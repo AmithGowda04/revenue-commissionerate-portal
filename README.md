@@ -9,10 +9,15 @@ This is the official portal of the Revenue Commissionerate, Karnataka Government
 Live Website: https://revenuecommissionerate.karnataka.gov.in/
 
 🚀 Features
+
 📄 Information on all Revenue Commissionerate services
+
 🌐 Multilingual support (Kannada & English)
+
 📱 Fully responsive design
+
 🔍 Easy navigation & search
+
 📰 Blog for new initiatives and updates
 
 📰 Blog
